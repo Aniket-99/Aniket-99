@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a Software Engineer at **Capgemini**.
 - 🌱 I’m currently learning **Java**, **Web Development** and **DevOps**.
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aniket-99&theme=dracula&hide_border=true)
-
 ## Experience
  * Working at: ![Capgemini](https://img.shields.io/badge/-Capgemini-blue) 🇮🇳 as a Software Engineer.
  * Programming Languages: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
